@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">wanandroid</string>
+
+    <string name="error_title">Something went wrong</string>
+</resources>
